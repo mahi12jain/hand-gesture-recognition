@@ -1,0 +1,18 @@
+"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron: Yeh book practical examples aur projects ke saath ML aur Deep Learning concepts ko cover karti hai.
+
+"Pattern Recognition and Machine Learning" by Christopher M. Bishop: Yeh book theoretical concepts ko depth mein samjhane aur practical algorithms ko explain karne mein madad karti hai.
+
+"Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig: Yeh book AI ke foundations, techniques, aur algorithms ko acche se cover karti hai.
+
+"Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville: Yeh book Deep Learning ke core concepts ko samjhane ke liye ek authoritative resource hai.
+
+"The Lean Startup" by Eric Ries: Yeh book business ko launch aur grow karne ke strategies ko explore karta hai, jo ki aapke IT services business ke liye valuable ho sakta hai.
+
+"The Startup Owner's Manual" by Steve Blank and Bob Dorf: Yeh book startup ke early stages mein kaise operate karein aur grow karein, uski step-by-step guidance provide karta hai.
+
+"Zero to One: Notes on Startups, or How to Build the Future" by Peter Thiel and Blake Masters: Yeh book startup ki starting se lekar growth tak ke principles ko explore karti hai.
+
+In kitabon ko padhkar aap AI, ML, aur business ke domain mein deep understanding develop kar sakte hain. Lekin yaad rahe ki sirf padhne se kaam nahi chalega, aapko concepts ko implement karke practical experience bhi gain karna hoga. 
+
+
+books ai-ml & bussiness
